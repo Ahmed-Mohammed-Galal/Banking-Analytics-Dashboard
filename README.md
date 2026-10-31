@@ -11,19 +11,19 @@ An end-to-end Power BI project (A to Z): data cleaning in Power Query, data mode
 ![Home](Images/banking_home_v3.gif)
 
 ### 📊 Overview
-![Overview](Images/Screenshot2026-10-31224409.png)
+![Overview](Images/OverView_Banking_Analysis.png)
 
 ### 👥 Customers
-![Customers](Images/Screenshot2026-10-31224422.png)
+![Customers](Images/Customers_Banking_Analysis.png)
 
 ### 💸 Transactions
-![Transactions](Images/Screenshot2026-10-31224434.png)
+![Transactions](Images/Transactions_Banking_Analysis.png)
 
 ### 🏦 Loans
-![Loans](Images/Screenshot2026-10-31224453.png)
+![Loans](Images/Loans_Banking_Analysis.png)
 
 ### 🎧 Support Calls
-![Support Calls](Images/Screenshot2026-10-31224510.png)
+![Support Calls](Images/SupportCalls_Banking_Analysis.png)
 
 
 ## ❓ Business Questions
